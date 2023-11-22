@@ -10,4 +10,4 @@ related_publications:
 
 I completed this undergraduate research project while advised by [Marin Soljacic](https://www.mit.edu/~soljacic/marin.html).
 
-[[slides](https://amburger66.github.io/assets/pdf/Deep_Symbolic_Regression_UROP_Report.pdf)]
+[[paper](https://amburger66.github.io/assets/pdf/Deep_Symbolic_Regression_UROP_Report.pdf)]
