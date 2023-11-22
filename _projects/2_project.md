@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Creating a Chatbot for Three-Way Conversations
-description: Final Project for 6.864 Advanced Natural Language Processing (Spring 2021) 
+title: Graph Neural Network-Based Symbolic Regression Using Deep Learning
+description: UROP Project (Fall 2020 - Spring 2021)
 img:
 importance: 2
 category:
+related_publications:
 ---
 
-[[poster](https://amburger66.github.io/assets/pdf/6_864_Chatbot_Poster.pdf)]
+I completed this undergraduate research project while advised by [Marin Soljacic](https://www.mit.edu/~soljacic/marin.html).
 
-[[paper](https://amburger66.github.io/assets/pdf/6_864_Chatbot_Project_Final_Report.pdf)]
+[[slides](https://amburger66.github.io/assets/pdf/Deep_Symbolic_Regression_UROP_Report.pdf)]

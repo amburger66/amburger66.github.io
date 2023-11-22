@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Comparing the Effectiveness of Knowledge Distillation and Weight-Based Pruning on Neural Networks
-description: Final Project for 6.867 Machine Learning (Fall 2020)
+title: Creating a Chatbot for Three-Way Conversations
+description: Final Project for 6.864 Advanced Natural Language Processing (Spring 2021) 
 img:
 importance: 3
 category:
-related_publications:
 ---
 
-[[slides](https://amburger66.github.io/assets/pdf/6.867_Project_Presentation.pdf)]
+[[poster](https://amburger66.github.io/assets/pdf/6_864_Chatbot_Poster.pdf)]
+
+[[paper](https://amburger66.github.io/assets/pdf/6_864_Chatbot_Project_Final_Report.pdf)]
