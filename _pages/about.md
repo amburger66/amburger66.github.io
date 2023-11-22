@@ -21,3 +21,5 @@ Hi! I'm currently a software engineer at Two Sigma. I received my B.S. and M.Eng
 Previously, I was also a software engineering intern at Two Sigma and at Microsoft.
 
 You can contact me at amburger347 at gmail dot com.
+
+[[CV](https://amburger66.github.io/assets/pdf/Li_Amber_CV.pdf)]
